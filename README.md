@@ -9,3 +9,4 @@
 
 #### O objetivo deste trabalho é trazer uma análise de um dataset de partidas do TCG Hearthstone e estabelecer o meta do game em tempo real.
 #### O site utilizado como referência dos dados é o https://hsreplay.net/
+#### O Arquivo HearthstoneMetaGeneratorExpansão.ipynb traz um versão automática com exemplo já aplicado num dataset da última expansão "Universidade de Scolomântia".
