@@ -4,7 +4,7 @@
 
 
 ### Mineração de Dados 
-### Trabalho1 : Relatório Descritivo de Dataset
+##### Trabalho1 : Relatório Descritivo de Dataset
 #### ->> by Alexei Alves de Souza
 
 #### O objetivo deste trabalho é trazer uma análise de um dataset de partidas do TCG Hearthstone e estabelecer o meta do game em tempo real.
